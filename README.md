@@ -5,4 +5,4 @@ Stuff is outdated, performance is horrible and I dont even like nodeJS. Might no
 
 Click the image for a Showcase
 
-[![img](https://i.imgur.com/Q1NfS5t.png)](https://streamable.com/8bdvi)
+[![img](https://i.imgur.com/CBXfE9T.png)](https://streamable.com/8bdvi)
